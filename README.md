@@ -38,6 +38,7 @@ A base de dados sobre irrigação e consumo de água foi selecionada por sua rel
 | F001 | Cotton | 329.4 | Sprinkler | 8.14 | 2.21 | 14.44 | Loamy | 76648.2 |
 | F002 | Carrot | 18.67 | Manual | 4.77 | 4.36 | 42.91 | Peaty | 68725.54 |
 | F003 | Sugarcane | 306.03 | Flood | 2.91 | 0.56 | 33.44 | Silty | 75538.56 |
+
 _Legenda: CT = Crop Type, FA = Farm Area, IT = Irrigation System, FU = Fertilizer Used, PU = Pesticide Used, ST = Soil Type e WU = Water Used._
 
 #### Processamento dos Dados
